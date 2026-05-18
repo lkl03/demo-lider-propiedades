@@ -1,2 +1,7 @@
-# demo-lider-propiedades
-Demo web para Lider Propiedades — diseñada por eterlab.
+# Lider Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
